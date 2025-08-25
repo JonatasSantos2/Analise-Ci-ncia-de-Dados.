@@ -1,10 +1,3 @@
-**ANÁLISE DE MERCADO: CIÊNCIA DE DADOS**  
-**ANÁLISE E DESENVOLVIMENTO DE SISTEMAS \- UNICSUL**
-
-**DESIGN PROFISSIONAL \- TURMA 001**
-
-**Jonatas da Silva Santos \- RGM 45291870**
-
 # **Análise de Mercado para Ciência de Dados: Brasil vs. Europa**
 
 **Este documento oferece um panorama comparativo do mercado de trabalho para profissionais de Ciência de Dados, contrastando as realidades do Brasil e de diversos países da Europa. A análise foi consolidada a partir de tendências observadas em plataformas como LinkedIn e Glassdoor.**
